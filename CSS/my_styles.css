@@ -2,14 +2,18 @@ p{
   color:black;
   text-align: center;
   font-family:sans-serif;
-  font-weight: 500;
+  font-weight: 900;
+  font-size: 40px;
+  line-height: 5px;
 }
 img{
   border-radius: 20px;
   max-width: 100%;
   height: auto;
 }
-a{
-  color:black
-  font-family: sans-serif;
+#page_header {
+    background: url("./images/cherry.jpg") no-repeat;
+    width: 1200px;
+    height: 1000px;
+
 }
