@@ -1,0 +1,15 @@
+p{
+  color:black;
+  text-align: center;
+  font-family:sans-serif;
+  font-weight: 500;
+}
+img{
+  border-radius: 20px;
+  max-width: 100%;
+  height: auto;
+}
+a{
+  color:black
+  font-family: sans-serif;
+}
