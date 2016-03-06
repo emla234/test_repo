@@ -3,17 +3,9 @@ p{
   text-align: center;
   font-family:sans-serif;
   font-weight: 900;
-  font-size: 40px;
-  line-height: 5px;
+  font-size: 60px;
+  line-height: 40px;
 }
-img{
-  border-radius: 20px;
-  max-width: 100%;
-  height: auto;
-}
-#page_header {
-    background: url("./images/cherry.jpg") no-repeat;
-    width: 1200px;
-    height: 1000px;
-
+h1{
+  line-height: 10px
 }
